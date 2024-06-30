@@ -1,4 +1,4 @@
-# Hi there, I'm Alex 👋
+### Hi there, I'm Alex 👋
 
 I'm based in London, and I've been passionate about software engineering since 2014, turning professional in the summer of 2016. I have a deep love for algorithms, and you'll find some of my coolest projects here on my GitHub profile.
 

@@ -7,6 +7,3 @@ Lately, I've been diving into math and machine learning, and I'm proud to have m
 When I'm not coding, you can find me behind the lens, indulging in my passion for photography.
 
 Feel free to explore my projects, and don't hesitate to reach out if you want to connect or collaborate!
-
-[![st235's github stats](https://github-readme-stats.vercel.app/api?username=st235)](https://github.com/st235?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=st235&layout=compact&theme=dark&hide=ruby&langs_count=6&card_width=300&hide_border=true&bg_color=ffffff00)](https://github.com/st235?tab=repositories)
